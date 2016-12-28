@@ -1,0 +1,19 @@
+{
+  "name": "ethel-the-aardvark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dlivingston/ethel-the-aardvark.git"
+  },
+  "author": "Don Livingston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlivingston/ethel-the-aardvark/issues"
+  },
+  "homepage": "https://github.com/dlivingston/ethel-the-aardvark#readme"
+}
